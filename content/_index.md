@@ -75,7 +75,7 @@ sections:
             icon_position: right
         image: images/book-inside.png
         media_position: left
-        media_width: fifty
+        media_width: thirty-three
     feature_padding_vert: small
     align: center
     background_color: none
